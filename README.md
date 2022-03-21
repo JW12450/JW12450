@@ -1,6 +1,9 @@
-### 자기소개 여기다 쓰는거 맞아?
+### Profile of JinWoo
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJW12450&count_bg=%23202D7E&title_bg=%23683494&icon=&icon_color=%2318437C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+![Python](https://img.shields/io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python)
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JW12450&show_icons=true&theme=tokyonight) 
 
